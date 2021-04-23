@@ -1,2 +1,2 @@
-# recsys-simulate
-simulate the user behavior for recommendation system
+# dolphin-recsys-simulate
+simulate the user behavior for dolphin recommendation system
